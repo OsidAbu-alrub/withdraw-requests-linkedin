@@ -1,6 +1,3 @@
-// navigate to this link
-// https://www.linkedin.com/mynetwork/invitation-manager/sent/
-
 // current pending request index
 var index = 0;
 
