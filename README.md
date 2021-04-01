@@ -9,6 +9,6 @@ This script withdraws all pending requests that you've sent to people on linkedi
 <br />
 3- Navigate to the console
 <br />
-4- paste script
+4- Paste script in script.js file
 <br />
-5- grab a cup of tea and wait!
+5- Grab a cup of tea and enjoy!
